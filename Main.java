@@ -11,6 +11,15 @@ public class Main{
             I have a feeling like this should be a loop until user says they are done using the "Calculator"
         */
 
+        //Design the look for the Calculator
+        System.out.println("--          --       --     ---------  -------  ------- -     -                ");
+        System.out.println("- -        - -      -  -        -      -     -     -     -   -                  ");
+        System.out.println("-  -      -  -     ------       -      -     -     -      - -                   ");
+        System.out.println("-   -    -   -    -      -      -      ------      -      - -                    ");
+        System.out.println("-    -  -    -   -        -     -      -     -     -     -   -                    ");
+        System.out.println("-     --     -  -          -    -      -      - ------- -     -                   ");
+
+
         //here we get input for matrix data
         System.out.println("Choose your matrix size: ");
         System.out.print("Rows: "); 
